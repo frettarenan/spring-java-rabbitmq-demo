@@ -1,0 +1,1 @@
+# spring-java-rabbitmq-demo
